@@ -1,0 +1,46 @@
+.Spin{
+    text-align: center;
+}
+
+.Cart{
+    margin: 30px auto;
+    width: 90%;
+    height: 350px;
+    box-shadow: 0px 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.Left{
+    float: left;
+    width: 200px;
+    margin: 10px;
+    height: 240px;
+}
+img{
+    margin-top: 5px;
+    width: 200px;
+    height: 240px;
+}
+
+.Desc{
+    text-align: center;
+}
+
+.Delete{
+    text-align: center;
+}
+
+.Msg{
+    margin-left: 200px;
+}
+.Msg p{
+    text-align: center;
+    font-size: xx-large;
+    box-shadow: 0px 2px 3px #ccc;
+    box-sizing: border-box;
+    margin-top: 100px;
+   
+    width: 80%;
+}
